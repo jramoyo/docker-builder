@@ -12,4 +12,4 @@ RUN apt-get update \
 RUN apt-get install -y docker.io \
     && apt-get install -y awscli
 
-ENTRYPOINT []
+CMD []
