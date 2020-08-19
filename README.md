@@ -2,10 +2,10 @@
 
 # Build
 ```
-make build IMAGE_TAG=<version>
+make build TAG_VERSION=<version>
 ```
 
 # Push
 ```
-make push IMAGE_TAG=<version>
+make push TAG_VERSION=<version>
 ```
